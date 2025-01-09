@@ -11,9 +11,11 @@ Dependencies: Some scripts may rely on additional tools like nmap, curl, or grep
 # Folders
 enum/: Scripts for enumeration (e.g., port scanning, service discovery).
 
-exploitation/: Tools for exploitation (e.g., payload generation, vulnerability exploitation).
+exploit/: Tools for exploitation (e.g., payload generation, vulnerability exploitation).
 
-post_exploitation/: Scripts for post-exploitation tasks (e.g., privilege escalation, data extraction).
+post-exploit/: Scripts for post-exploitation tasks (e.g., privilege escalation, data extraction).
+
+encryption/: Scripts for decryption
 
 misc/: General utility scripts for miscellaneous tasks.
 
