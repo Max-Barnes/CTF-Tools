@@ -22,6 +22,8 @@ encryption/: Scripts for decryption
 
 misc/: General utility scripts for miscellaneous tasks.
 
+Each folder has a docs.md file which will explain what each .sh script does and where I use them.
+
 # Setup
 
 Clone this repository:
@@ -33,13 +35,13 @@ git clone https://github.com/CTF-Tools.git
 Add execute permissions to setup.sh
 
 ```
-sudo chmod +x setup.sh
+chmod +x setup.sh
 ```
 
 Run the script you want to use
 
 ```
-sudo bash example.sh
+bash example.sh
 ```
 
 # Contributions
