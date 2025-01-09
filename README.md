@@ -20,7 +20,7 @@ misc/: General utility scripts for miscellaneous tasks.
 # Setup
 Clone this repository:
 ```
-git clone https://github.com/CTF-Tools
+git clone https://github.com/CTF-Tools.git
 ```
 Add execute permissions to setup.sh
 ```
